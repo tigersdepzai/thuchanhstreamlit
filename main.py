@@ -49,6 +49,6 @@ Tiếc nuối ấy cứ thế vẫn mãi khắc sâu trên hàng mi, và rồi n
 Giọt lệ anh đã cố giấu bước tiếp để nhìn em bước đi
 Nơi đó anh nhớ em nhiều
 Về bên anh gió lộng đồi hoang, ở bên anh yên giấc mơ màng
-Ngồi đây nghe tiếng lòng thởh than, chờ mong ai hơi ấm nhẹ nhàng""")ật
+Ngồi đây nghe tiếng lòng thởh than, chờ mong ai hơi ấm nhẹ nhàng""")
 st.title("MV yêu thích của tôi:")
 st.video("https://www.youtube.com/watch?v=Hpjd3dNXQy0&list=RDHpjd3dNXQy0&start_radio=1")
