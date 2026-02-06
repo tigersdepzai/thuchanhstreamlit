@@ -1,41 +1,12 @@
 import streamlit as st
-st.set_page_config(page_title = "Trắc Nghiệm tính cách", page_icon = ":question:" , layout = "wide")
-st.title("hãy chọn một con vật mà bạn thích nhất")
-col1,col2,col3,col4,col5 = st.columns(5)
-with col1:
-    button1 = st.button("con mèo")
-with col2:
-    button2 = st.button("con chó")
-with col3:
-    button3 = st.button("con sư tử")
-with col4:
-    button4 = st.button("con ngựa")
-with col5:
-    button5 = st.button("Thiên nga")
-if button1:
-    with st.expander("bạn đã chọn con mèo"):
-        st.write("bạn là người rất tinh tế ,thông minh và nhanh nhẹn")
-if button2:
-    with st.expander("bạn đã chọn con chó"):
-        st.write("bạn là người rất trung thành ,dũng cảm và biết bảo vệ mọi người xung quanh")
-if button3:
-    with st.expander("bạn đã chọn con sư tử"):
-        st.write("bạn là người rất mạnh mẽ ,tự tin và có khả năng lãnh đạo")
-if button4:
-    with st.expander("bạn đã chọn con ngựa"):
-        st.write("bạn là người rất nhiệt huyết ,yêu tự do và có tinh thần phóng khoáng")
-if button5:
-    with st.expander("bạn đã chọn con thiên nga"):
-        st.write("bạn là người rất thanh lịch ,duyên dáng và có gu thẩm mỹ cao")
-with st.sidebar:
-    st.title("trắc nghiệm tính cách")
-    if button1:
-        st.write("bạn đã chọn con mèo")
-    if button2:
-        st.write("bạn đã chọn con chó")
-    if button3:
-        st.write("bạn đã chọn con sư tử")
-    if button4:
-        st.write("bạn đã chọn con ngựa")
-    if button5:
-        st.write("bạn đã chọn con thiên nga")
+st.image("https://upload.wikimedia.org/wikipedia/vi/9/9e/Jack_J97.jpg")
+st.audio("https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3")
+st.suond("https://www.myinstants.com/en/instant/oi-oi-oe-oi-a-eye-eye-71473/?utm_source=copy&utm_medium=share")
+
+
+st.title("Miêu tả chi tiết về Jack-J97")
+st.sidebar.title("Thông tin về Jack-J97")
+st.sidebar.write("""
+Họ và tên:Trịnh Trần Phương Tuấn
+Nghệ danh:Jack-J97
+Trịnh Trần Phương Tuấn, nổi tiếng với nghệ danh Jack-J97, là một ca sĩ, nhạc sĩ và rapper người Việt Nam. Anh sinh ngày 12 tháng 4 năm 1997 tại Bến Tre. Jack-J97 bắt đầu sự nghiệp âm nhạc của mình vào năm 2017 và nhanh chóng trở thành một trong những nghệ sĩ trẻ triển vọng nhất của làng nhạc Việt Nam.""")
