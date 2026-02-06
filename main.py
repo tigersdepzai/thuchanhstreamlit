@@ -28,4 +28,14 @@ if button5:
     with st.expander("bạn đã chọn con thiên nga"):
         st.write("bạn là người rất thanh lịch ,duyên dáng và có gu thẩm mỹ cao")
 with st.sidebar:
-    st.header("")
+    st.title("trắc nghiệm tính cách")
+    if button1:
+        st.write("bạn đã chọn con mèo")
+    if button2:
+        st.write("bạn đã chọn con chó")
+    if button3:
+        st.write("bạn đã chọn con sư tử")
+    if button4:
+        st.write("bạn đã chọn con ngựa")
+    if button5:
+        st.write("bạn đã chọn con thiên nga")
