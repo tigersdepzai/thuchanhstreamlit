@@ -8,7 +8,7 @@ with st.sidebar:
     Họ Và Tên:Trịnh Trần Phương Tuấn
     chi tiết về nhạc sĩ:tên thật là Trịnh Trần Phương Tuấn (sinh ngày 12/04/1997 tại Bến Tre), là ca sĩ, nhạc sĩ và rapper nổi tiếng của Việt Nam""")
 st.title("Bài hát yêu thích của tôi:")
-st.audio("https://www.google.com/search?q=nh%E1%BA%A1c+v%E1%BB%81+b%C3%AAn+anh&sca_esv=b21dda8be8fa643d&biw=1290&bih=725&sxsrf=ANbL-n5W0-AoUPFGDSlGeWtzRGYqFbbnbA%3A1770469932261&ei=LDqHafbVD7GOseMPxqWN-A8&ved=0ahUKEwj2m5e7useSAxUxR2wGHcZSA_8Q4dUDCBM&uact=5&oq=nh%E1%BA%A1c+v%E1%BB%81+b%C3%AAn+anh&gs_lp=Egxnd3Mtd2l6LXNlcnAiFG5o4bqhYyB24buBIGLDqm4gYW5oMgUQABiABDIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHkiTOlDMBFiqNHAGeAGQAQaYAcoBoAHCGaoBBjI4LjYuMbgBA8gBAPgBAZgCHaAC_hHCAgoQABiwAxjWBBhHwgIEECMYJ8ICBRAAGO8FwgIIEAAYgAQYogTCAggQABiABBjLAcICBRAuGIAEwgIIEAAYgAQYsQPCAgoQIxiABBgnGIoFwgIOEAAYgAQYsQMYgwEYigXCAgQQABgDwgIUEC4YgAQYlwUY3AQY3gQY4ATYAQGYAwCIBgGQBgi6BgYIARABGBSSBwQyMC45oAfvhgKyBwQxNC45uAfSEcIHBjItMjIuN8gHxAGACAA&sclient=gws-wiz-serp#fpstate=ive&vld=cid:ae81ff7a,vid:fArpx8TRWU8,st:0")
+st.audio("https://surl.lt/ngrsqh")
 st.write("""
     lời bài hát: về bên anh - Trịnh Trần Phương Tuấn
    Đã có lúc ấm áp đôi tay, cùng nhau nhìn lên trời cao
